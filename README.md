@@ -6,7 +6,6 @@ Student
 
 Currently doing a module in Introduction to Python
 
-*   🌍  I'm based in New York
 *   🧠  I'm learning a new framework
 *   🤝  I'm open to collaborating on interesting projects### Skills 
 <p align="left">
